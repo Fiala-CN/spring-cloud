@@ -20,3 +20,19 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+logPath_IS_UNDEFINED
+log.path_IS_UNDEFINED
+.settings
+.project
+.idea
+bin
+target
+.classpath
+.idea
+.tern-project
+output
+*.iml
+.DS_Store
+~*
+
