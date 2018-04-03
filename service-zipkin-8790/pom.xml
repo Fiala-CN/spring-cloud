@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.von</groupId>
-	<artifactId>service-zipkin</artifactId>
+	<artifactId>service-zipkin-8790</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
