@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 target/
 !.mvn/wrapper/maven-wrapper.jar
 
@@ -23,3 +24,43 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+logPath_IS_UNDEFINED
+log.path_IS_UNDEFINED
+.settings
+.project
+.idea
+bin
+target
+.classpath
+.idea
+.tern-project
+output
+*.iml
+.DS_Store
+~*
+
+>>>>>>> 16b8928c1830ae1d675fbb96a5a2df22a7218b5e
